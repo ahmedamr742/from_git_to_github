@@ -6,11 +6,7 @@
 
 # from_git_to_github
 how to repo from git to github
-<code style="color : blue ;   
-  font-family: "Space Mono", monospace;
-  font-weight: 400;
-  font-style: normal
-  ;">
+<code>
 # start
 if you don't have any thing for rebo you can make that to test
  # 1 :
